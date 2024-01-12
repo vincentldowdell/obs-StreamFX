@@ -51,7 +51,11 @@ Licensed under link:https://github.com/Xaymar/obs-StreamFX/blob/root/LICENSE[GPL
 |link:https://github.com/obsproject/obs-studio/graphs/contributors?type=a[jp9000, computerquip, and more]
 
 |link:https://www.qt.io/[Qt 6.x]
+
 |link:https://www.qt.io/download-open-source[(L)GPL-3.0 (or later)]
 |link:https://www.qt.io/[The Qt Company], and open source contributors
 
+
 |=================
+
+
